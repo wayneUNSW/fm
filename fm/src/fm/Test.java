@@ -40,7 +40,7 @@ public class Test {
         map.put("users", users);
         map.put("user1", user1);
         //普通EL赋值
-        util.print("04.ftl", map );
+        util.print("01.ftl", map );
         //判断
         //util.print("03.ftl", map, "03.html");
         //遍历
